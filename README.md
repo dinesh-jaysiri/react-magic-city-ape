@@ -1,4 +1,39 @@
-# Getting Started with Create React App
+## Magic-City-Ape NFT Minting dApp
+
+[hardhat-backend](https://github.com/dinesh-jaysiri/hardhat-magic-city-ape)
+
+![project image](https://github.com/dinesh-jaysiri/react-magic-city-ape/blob/main/project_image.png?raw=true)
+
+#### Purpose
+Magic-City-Ape is an NFT minting decentralized application that aims to provide a seamless and secure platform for users to mint and purchase NFTs. The dApp includes presale and public sale minting and smart contract functionality, including the ability to pause and reveal the contract.
+
+#### Key Features
+Presale and public sale minting functionality
+Payment splitter included in the smart contract
+Integration with MetaMask for a seamless user experience
+Hardhat used for developing smart contracts
+React used for building the front-end interface
+
+#### Technologies Used
+Hardhat for developing smart contracts
+React for building the front-end interface
+MetaMask for integrating with the Ethereum network
+
+#### Results
+Magic-City-Ape provides a secure and transparent platform for users to mint and purchase NFTs. The integration with MetaMask ensures that users can interact with the platform seamlessly, while the payment splitter functionality included in the smart contract ensures that funds are distributed fairly.
+
+#### Challenges & Solutions
+One of the main challenges in building an NFT minting dApp is ensuring the security and transparency of transactions. This was achieved by utilizing Hardhat for developing smart contracts and integrating with MetaMask for a seamless user experience. The payment splitter functionality was also included in the smart contract to ensure that funds are distributed fairly.
+
+
+
+
+
+
+
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
